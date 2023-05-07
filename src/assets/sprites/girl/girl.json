@@ -1,0 +1,1228 @@
+{
+	"textures": [
+		{
+			"image": "girl-0.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 2048,
+				"h": 2048
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "GirlFall_00002.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 450,
+						"h": 450
+					},
+					"spriteSourceSize": {
+						"x": 88,
+						"y": 94,
+						"w": 282,
+						"h": 356
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 282,
+						"h": 356
+					}
+				},
+				{
+					"filename": "GirlFall_00001.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 450,
+						"h": 450
+					},
+					"spriteSourceSize": {
+						"x": 113,
+						"y": 62,
+						"w": 220,
+						"h": 388
+					},
+					"frame": {
+						"x": 1,
+						"y": 359,
+						"w": 220,
+						"h": 388
+					}
+				},
+				{
+					"filename": "GirlFall_00000.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 450,
+						"h": 450
+					},
+					"spriteSourceSize": {
+						"x": 126,
+						"y": 38,
+						"w": 208,
+						"h": 390
+					},
+					"frame": {
+						"x": 1,
+						"y": 749,
+						"w": 208,
+						"h": 390
+					}
+				},
+				{
+					"filename": "GirlFall_00003.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 450,
+						"h": 450
+					},
+					"spriteSourceSize": {
+						"x": 65,
+						"y": 127,
+						"w": 306,
+						"h": 286
+					},
+					"frame": {
+						"x": 285,
+						"y": 1,
+						"w": 306,
+						"h": 286
+					}
+				},
+				{
+					"filename": "GirlDown_00000.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 450,
+						"h": 450
+					},
+					"spriteSourceSize": {
+						"x": 126,
+						"y": 35,
+						"w": 208,
+						"h": 382
+					},
+					"frame": {
+						"x": 1,
+						"y": 1141,
+						"w": 208,
+						"h": 382
+					}
+				},
+				{
+					"filename": "GirlIdle 12fps_00007.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 450,
+						"h": 450
+					},
+					"spriteSourceSize": {
+						"x": 126,
+						"y": 35,
+						"w": 208,
+						"h": 382
+					},
+					"frame": {
+						"x": 1,
+						"y": 1525,
+						"w": 208,
+						"h": 382
+					}
+				},
+				{
+					"filename": "GirlFall_00004.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 450,
+						"h": 450
+					},
+					"spriteSourceSize": {
+						"x": 48,
+						"y": 163,
+						"w": 296,
+						"h": 268
+					},
+					"frame": {
+						"x": 593,
+						"y": 1,
+						"w": 296,
+						"h": 268
+					}
+				},
+				{
+					"filename": "GirlCrash_00020.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 450,
+						"h": 450
+					},
+					"spriteSourceSize": {
+						"x": 53,
+						"y": 147,
+						"w": 257,
+						"h": 268
+					},
+					"frame": {
+						"x": 891,
+						"y": 1,
+						"w": 257,
+						"h": 268
+					}
+				},
+				{
+					"filename": "GirlCrash_00019.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 450,
+						"h": 450
+					},
+					"spriteSourceSize": {
+						"x": 48,
+						"y": 151,
+						"w": 260,
+						"h": 264
+					},
+					"frame": {
+						"x": 1150,
+						"y": 1,
+						"w": 260,
+						"h": 264
+					}
+				},
+				{
+					"filename": "GirlCrash_00018.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 450,
+						"h": 450
+					},
+					"spriteSourceSize": {
+						"x": 52,
+						"y": 144,
+						"w": 260,
+						"h": 262
+					},
+					"frame": {
+						"x": 1412,
+						"y": 1,
+						"w": 260,
+						"h": 262
+					}
+				},
+				{
+					"filename": "GirlCrash_00021.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 450,
+						"h": 450
+					},
+					"spriteSourceSize": {
+						"x": 54,
+						"y": 147,
+						"w": 258,
+						"h": 263
+					},
+					"frame": {
+						"x": 1674,
+						"y": 1,
+						"w": 258,
+						"h": 263
+					}
+				},
+				{
+					"filename": "GirlDown_00002.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 450,
+						"h": 450
+					},
+					"spriteSourceSize": {
+						"x": 140,
+						"y": 34,
+						"w": 186,
+						"h": 388
+					},
+					"frame": {
+						"x": 223,
+						"y": 359,
+						"w": 186,
+						"h": 388
+					}
+				},
+				{
+					"filename": "GirlEat_00000.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 450,
+						"h": 450
+					},
+					"spriteSourceSize": {
+						"x": 126,
+						"y": 35,
+						"w": 209,
+						"h": 381
+					},
+					"frame": {
+						"x": 211,
+						"y": 749,
+						"w": 209,
+						"h": 381
+					}
+				},
+				{
+					"filename": "GirlJump_00000.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 450,
+						"h": 450
+					},
+					"spriteSourceSize": {
+						"x": 126,
+						"y": 35,
+						"w": 209,
+						"h": 381
+					},
+					"frame": {
+						"x": 211,
+						"y": 1132,
+						"w": 209,
+						"h": 381
+					}
+				},
+				{
+					"filename": "GirlJump_00001.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 450,
+						"h": 450
+					},
+					"spriteSourceSize": {
+						"x": 125,
+						"y": 35,
+						"w": 211,
+						"h": 381
+					},
+					"frame": {
+						"x": 211,
+						"y": 1515,
+						"w": 211,
+						"h": 381
+					}
+				},
+				{
+					"filename": "GirlDown_00001.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 450,
+						"h": 450
+					},
+					"spriteSourceSize": {
+						"x": 144,
+						"y": 34,
+						"w": 188,
+						"h": 387
+					},
+					"frame": {
+						"x": 411,
+						"y": 289,
+						"w": 188,
+						"h": 387
+					}
+				},
+				{
+					"filename": "GirlJump_00003.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 450,
+						"h": 450
+					},
+					"spriteSourceSize": {
+						"x": 121,
+						"y": 35,
+						"w": 215,
+						"h": 380
+					},
+					"frame": {
+						"x": 601,
+						"y": 271,
+						"w": 215,
+						"h": 380
+					}
+				},
+				{
+					"filename": "GirlJump_00002.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 450,
+						"h": 450
+					},
+					"spriteSourceSize": {
+						"x": 124,
+						"y": 35,
+						"w": 212,
+						"h": 381
+					},
+					"frame": {
+						"x": 818,
+						"y": 271,
+						"w": 212,
+						"h": 381
+					}
+				},
+				{
+					"filename": "GirlDown_00003.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 450,
+						"h": 450
+					},
+					"spriteSourceSize": {
+						"x": 136,
+						"y": 34,
+						"w": 186,
+						"h": 386
+					},
+					"frame": {
+						"x": 1032,
+						"y": 271,
+						"w": 186,
+						"h": 386
+					}
+				},
+				{
+					"filename": "GirlIdle 12fps_00000.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 450,
+						"h": 450
+					},
+					"spriteSourceSize": {
+						"x": 126,
+						"y": 35,
+						"w": 208,
+						"h": 381
+					},
+					"frame": {
+						"x": 1220,
+						"y": 267,
+						"w": 208,
+						"h": 381
+					}
+				},
+				{
+					"filename": "GirlJump_00004.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 450,
+						"h": 450
+					},
+					"spriteSourceSize": {
+						"x": 119,
+						"y": 35,
+						"w": 212,
+						"h": 379
+					},
+					"frame": {
+						"x": 1430,
+						"y": 265,
+						"w": 212,
+						"h": 379
+					}
+				},
+				{
+					"filename": "GirlIdle 12fps_00001.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 450,
+						"h": 450
+					},
+					"spriteSourceSize": {
+						"x": 126,
+						"y": 35,
+						"w": 208,
+						"h": 381
+					},
+					"frame": {
+						"x": 1644,
+						"y": 266,
+						"w": 208,
+						"h": 381
+					}
+				},
+				{
+					"filename": "GirlIdle 12fps_00002.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 450,
+						"h": 450
+					},
+					"spriteSourceSize": {
+						"x": 126,
+						"y": 35,
+						"w": 208,
+						"h": 381
+					},
+					"frame": {
+						"x": 422,
+						"y": 678,
+						"w": 208,
+						"h": 381
+					}
+				},
+				{
+					"filename": "GirlIdle 12fps_00003.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 450,
+						"h": 450
+					},
+					"spriteSourceSize": {
+						"x": 126,
+						"y": 35,
+						"w": 208,
+						"h": 381
+					},
+					"frame": {
+						"x": 422,
+						"y": 1061,
+						"w": 208,
+						"h": 381
+					}
+				},
+				{
+					"filename": "GirlEat_00002.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 450,
+						"h": 450
+					},
+					"spriteSourceSize": {
+						"x": 139,
+						"y": 36,
+						"w": 179,
+						"h": 373
+					},
+					"frame": {
+						"x": 632,
+						"y": 653,
+						"w": 179,
+						"h": 373
+					}
+				},
+				{
+					"filename": "GirlIdle 12fps_00004.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 450,
+						"h": 450
+					},
+					"spriteSourceSize": {
+						"x": 126,
+						"y": 35,
+						"w": 208,
+						"h": 381
+					},
+					"frame": {
+						"x": 813,
+						"y": 654,
+						"w": 208,
+						"h": 381
+					}
+				},
+				{
+					"filename": "GirlCrash_00002.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 450,
+						"h": 450
+					},
+					"spriteSourceSize": {
+						"x": 131,
+						"y": 40,
+						"w": 196,
+						"h": 376
+					},
+					"frame": {
+						"x": 1023,
+						"y": 659,
+						"w": 196,
+						"h": 376
+					}
+				},
+				{
+					"filename": "GirlIdle 12fps_00005.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 450,
+						"h": 450
+					},
+					"spriteSourceSize": {
+						"x": 126,
+						"y": 35,
+						"w": 208,
+						"h": 381
+					},
+					"frame": {
+						"x": 1221,
+						"y": 650,
+						"w": 208,
+						"h": 381
+					}
+				},
+				{
+					"filename": "GirlIdle 12fps_00006.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 450,
+						"h": 450
+					},
+					"spriteSourceSize": {
+						"x": 126,
+						"y": 35,
+						"w": 208,
+						"h": 381
+					},
+					"frame": {
+						"x": 1431,
+						"y": 646,
+						"w": 208,
+						"h": 381
+					}
+				},
+				{
+					"filename": "GirlIdle 12fps_00008.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 450,
+						"h": 450
+					},
+					"spriteSourceSize": {
+						"x": 126,
+						"y": 35,
+						"w": 208,
+						"h": 381
+					},
+					"frame": {
+						"x": 1641,
+						"y": 649,
+						"w": 208,
+						"h": 381
+					}
+				},
+				{
+					"filename": "GirlIdle 12fps_00009.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 450,
+						"h": 450
+					},
+					"spriteSourceSize": {
+						"x": 126,
+						"y": 35,
+						"w": 208,
+						"h": 381
+					},
+					"frame": {
+						"x": 424,
+						"y": 1444,
+						"w": 208,
+						"h": 381
+					}
+				},
+				{
+					"filename": "GirlCrash_00004.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 450,
+						"h": 450
+					},
+					"spriteSourceSize": {
+						"x": 127,
+						"y": 42,
+						"w": 187,
+						"h": 380
+					},
+					"frame": {
+						"x": 1854,
+						"y": 266,
+						"w": 187,
+						"h": 380
+					}
+				},
+				{
+					"filename": "GirlIdle 12fps_00010.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 450,
+						"h": 450
+					},
+					"spriteSourceSize": {
+						"x": 126,
+						"y": 35,
+						"w": 208,
+						"h": 381
+					},
+					"frame": {
+						"x": 632,
+						"y": 1037,
+						"w": 208,
+						"h": 381
+					}
+				},
+				{
+					"filename": "GirlIdle 12fps_00011.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 450,
+						"h": 450
+					},
+					"spriteSourceSize": {
+						"x": 126,
+						"y": 35,
+						"w": 208,
+						"h": 381
+					},
+					"frame": {
+						"x": 842,
+						"y": 1037,
+						"w": 208,
+						"h": 381
+					}
+				},
+				{
+					"filename": "GirlEat_00001.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 450,
+						"h": 450
+					},
+					"spriteSourceSize": {
+						"x": 131,
+						"y": 35,
+						"w": 204,
+						"h": 378
+					},
+					"frame": {
+						"x": 634,
+						"y": 1420,
+						"w": 204,
+						"h": 378
+					}
+				},
+				{
+					"filename": "GirlCrash_00000.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 450,
+						"h": 450
+					},
+					"spriteSourceSize": {
+						"x": 126,
+						"y": 38,
+						"w": 208,
+						"h": 371
+					},
+					"frame": {
+						"x": 840,
+						"y": 1420,
+						"w": 208,
+						"h": 371
+					}
+				},
+				{
+					"filename": "GirlCrash_00005.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 450,
+						"h": 450
+					},
+					"spriteSourceSize": {
+						"x": 120,
+						"y": 44,
+						"w": 187,
+						"h": 380
+					},
+					"frame": {
+						"x": 1052,
+						"y": 1037,
+						"w": 187,
+						"h": 380
+					}
+				},
+				{
+					"filename": "GirlCrash_00006.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 450,
+						"h": 450
+					},
+					"spriteSourceSize": {
+						"x": 112,
+						"y": 45,
+						"w": 189,
+						"h": 379
+					},
+					"frame": {
+						"x": 1241,
+						"y": 1033,
+						"w": 189,
+						"h": 379
+					}
+				},
+				{
+					"filename": "GirlCrash_00001.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 450,
+						"h": 450
+					},
+					"spriteSourceSize": {
+						"x": 128,
+						"y": 39,
+						"w": 204,
+						"h": 375
+					},
+					"frame": {
+						"x": 1432,
+						"y": 1029,
+						"w": 204,
+						"h": 375
+					}
+				},
+				{
+					"filename": "GirlHit_00000.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 450,
+						"h": 450
+					},
+					"spriteSourceSize": {
+						"x": 126,
+						"y": 38,
+						"w": 208,
+						"h": 371
+					},
+					"frame": {
+						"x": 1638,
+						"y": 1032,
+						"w": 208,
+						"h": 371
+					}
+				},
+				{
+					"filename": "GirlCrash_00009.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 450,
+						"h": 450
+					},
+					"spriteSourceSize": {
+						"x": 91,
+						"y": 53,
+						"w": 199,
+						"h": 364
+					},
+					"frame": {
+						"x": 1848,
+						"y": 1032,
+						"w": 199,
+						"h": 364
+					}
+				},
+				{
+					"filename": "GirlCrash_00024.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 450,
+						"h": 450
+					},
+					"spriteSourceSize": {
+						"x": 53,
+						"y": 150,
+						"w": 259,
+						"h": 254
+					},
+					"frame": {
+						"x": 840,
+						"y": 1793,
+						"w": 259,
+						"h": 254
+					}
+				},
+				{
+					"filename": "GirlCrash_00003.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 450,
+						"h": 450
+					},
+					"spriteSourceSize": {
+						"x": 133,
+						"y": 41,
+						"w": 188,
+						"h": 378
+					},
+					"frame": {
+						"x": 1851,
+						"y": 649,
+						"w": 188,
+						"h": 378
+					}
+				},
+				{
+					"filename": "GirlCrash_00008.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 450,
+						"h": 450
+					},
+					"spriteSourceSize": {
+						"x": 98,
+						"y": 50,
+						"w": 190,
+						"h": 370
+					},
+					"frame": {
+						"x": 1050,
+						"y": 1420,
+						"w": 190,
+						"h": 370
+					}
+				},
+				{
+					"filename": "GirlCrash_00023.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 450,
+						"h": 450
+					},
+					"spriteSourceSize": {
+						"x": 53,
+						"y": 149,
+						"w": 259,
+						"h": 255
+					},
+					"frame": {
+						"x": 1101,
+						"y": 1792,
+						"w": 259,
+						"h": 255
+					}
+				},
+				{
+					"filename": "GirlCrash_00007.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 450,
+						"h": 450
+					},
+					"spriteSourceSize": {
+						"x": 105,
+						"y": 47,
+						"w": 189,
+						"h": 375
+					},
+					"frame": {
+						"x": 1242,
+						"y": 1414,
+						"w": 189,
+						"h": 375
+					}
+				},
+				{
+					"filename": "GirlCrash_00022.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 450,
+						"h": 450
+					},
+					"spriteSourceSize": {
+						"x": 53,
+						"y": 148,
+						"w": 259,
+						"h": 256
+					},
+					"frame": {
+						"x": 1362,
+						"y": 1791,
+						"w": 259,
+						"h": 256
+					}
+				},
+				{
+					"filename": "GirlDown_00004.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 450,
+						"h": 450
+					},
+					"spriteSourceSize": {
+						"x": 133,
+						"y": 36,
+						"w": 187,
+						"h": 378
+					},
+					"frame": {
+						"x": 1433,
+						"y": 1406,
+						"w": 187,
+						"h": 378
+					}
+				},
+				{
+					"filename": "GirlCrash_00010.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 450,
+						"h": 450
+					},
+					"spriteSourceSize": {
+						"x": 85,
+						"y": 57,
+						"w": 207,
+						"h": 358
+					},
+					"frame": {
+						"x": 1622,
+						"y": 1406,
+						"w": 207,
+						"h": 358
+					}
+				},
+				{
+					"filename": "GirlCrash_00017.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 450,
+						"h": 450
+					},
+					"spriteSourceSize": {
+						"x": 57,
+						"y": 131,
+						"w": 254,
+						"h": 277
+					},
+					"frame": {
+						"x": 1623,
+						"y": 1766,
+						"w": 254,
+						"h": 277
+					}
+				},
+				{
+					"filename": "GirlCrash_00011.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 450,
+						"h": 450
+					},
+					"spriteSourceSize": {
+						"x": 79,
+						"y": 62,
+						"w": 215,
+						"h": 350
+					},
+					"frame": {
+						"x": 1831,
+						"y": 1405,
+						"w": 215,
+						"h": 350
+					}
+				}
+			]
+		},
+		{
+			"image": "girl-1.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 511,
+				"h": 931
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "GirlCrash_00012.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 450,
+						"h": 450
+					},
+					"spriteSourceSize": {
+						"x": 74,
+						"y": 71,
+						"w": 222,
+						"h": 342
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 222,
+						"h": 342
+					}
+				},
+				{
+					"filename": "GirlCrash_00013.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 450,
+						"h": 450
+					},
+					"spriteSourceSize": {
+						"x": 70,
+						"y": 83,
+						"w": 228,
+						"h": 330
+					},
+					"frame": {
+						"x": 1,
+						"y": 345,
+						"w": 228,
+						"h": 330
+					}
+				},
+				{
+					"filename": "GirlCrash_00015.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 450,
+						"h": 450
+					},
+					"spriteSourceSize": {
+						"x": 63,
+						"y": 107,
+						"w": 241,
+						"h": 305
+					},
+					"frame": {
+						"x": 225,
+						"y": 1,
+						"w": 241,
+						"h": 305
+					}
+				},
+				{
+					"filename": "GirlCrash_00025.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 450,
+						"h": 450
+					},
+					"spriteSourceSize": {
+						"x": 53,
+						"y": 151,
+						"w": 259,
+						"h": 253
+					},
+					"frame": {
+						"x": 1,
+						"y": 677,
+						"w": 259,
+						"h": 253
+					}
+				},
+				{
+					"filename": "GirlCrash_00014.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 450,
+						"h": 450
+					},
+					"spriteSourceSize": {
+						"x": 67,
+						"y": 95,
+						"w": 232,
+						"h": 318
+					},
+					"frame": {
+						"x": 231,
+						"y": 308,
+						"w": 232,
+						"h": 318
+					}
+				},
+				{
+					"filename": "GirlCrash_00016.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 450,
+						"h": 450
+					},
+					"spriteSourceSize": {
+						"x": 60,
+						"y": 119,
+						"w": 248,
+						"h": 291
+					},
+					"frame": {
+						"x": 262,
+						"y": 628,
+						"w": 248,
+						"h": 291
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:d198b4302f008e3deca76a9bc9535849:ff6a10767a2deebb89d099df2557e66b:97d84fe3d632c876729e81c224cc0dcd$"
+	}
+}

@@ -1,0 +1,62 @@
+{
+	"textures": [
+		{
+			"image": "Watchman.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 682,
+				"h": 421
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "Watchman02.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 430,
+						"h": 430
+					},
+					"spriteSourceSize": {
+						"x": 37,
+						"y": 6,
+						"w": 391,
+						"h": 419
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 391,
+						"h": 419
+					}
+				},
+				{
+					"filename": "Watchman01.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 430,
+						"h": 430
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 67,
+						"w": 287,
+						"h": 357
+					},
+					"frame": {
+						"x": 394,
+						"y": 1,
+						"w": 287,
+						"h": 357
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:2e984aebbaf7f9cda93b7496ed518af4:3d952761d8f035f6e1c31af7d026c52e:3cedfcdc26625090fa8c5e91c5ba1413$"
+	}
+}

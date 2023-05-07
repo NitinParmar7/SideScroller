@@ -1,0 +1,62 @@
+{
+	"textures": [
+		{
+			"image": "WatchWoman.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 672,
+				"h": 410
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "Watchwoman02.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 420,
+						"h": 420
+					},
+					"spriteSourceSize": {
+						"x": 31,
+						"y": 6,
+						"w": 387,
+						"h": 408
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 387,
+						"h": 408
+					}
+				},
+				{
+					"filename": "Watchwoman01.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 420,
+						"h": 420
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 65,
+						"w": 281,
+						"h": 349
+					},
+					"frame": {
+						"x": 390,
+						"y": 1,
+						"w": 281,
+						"h": 349
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:9ae8862937a4b65a5162faaeec31f638:3db03b7a0cad6ba91f952827a9f32bf1:ba0814a846fc3eb3a7f257aad4a55717$"
+	}
+}

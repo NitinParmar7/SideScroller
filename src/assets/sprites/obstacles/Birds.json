@@ -1,0 +1,62 @@
+{
+	"textures": [
+		{
+			"image": "Birds.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 199,
+				"h": 246
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "Bird01.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 200,
+						"h": 200
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 17,
+						"w": 197,
+						"h": 122
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 197,
+						"h": 122
+					}
+				},
+				{
+					"filename": "Birds02.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 200,
+						"h": 200
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 79,
+						"w": 196,
+						"h": 120
+					},
+					"frame": {
+						"x": 1,
+						"y": 125,
+						"w": 196,
+						"h": 120
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:485620a76225f1a6e576a13a0c0697ea:cb9ec95e6375fa8d38d0730cc94328a4:3dd6e3c51120e814e0cce32a3c41f742$"
+	}
+}

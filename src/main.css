@@ -1,0 +1,28 @@
+* {
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+}
+/* @font-face {
+    font-family: geometric;
+	src: url('./assets/font/geometric.ttf');
+	font-weight: bold;
+} */
+/* .fontLoader {
+	position: absolute;
+	left: -1000px;
+	visibility: hidden;
+} */
+input{
+    background-color: transparent;
+    background: transparent;
+    border: none;
+    outline: none;
+    color: white;
+    text-align: center;
+}
+body{
+    padding: 0px;
+    margin: 0px;
+    background-color: #000000
+}

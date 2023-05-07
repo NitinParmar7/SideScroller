@@ -1,0 +1,41 @@
+{
+	"textures": [
+		{
+			"image": "Plane.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 156,
+				"h": 52
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "Plane.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 180,
+						"h": 180
+					},
+					"spriteSourceSize": {
+						"x": 17,
+						"y": 71,
+						"w": 154,
+						"h": 50
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 154,
+						"h": 50
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:6677c845c9cc3ebdb289f17f60e46cc3:d7e4df06e14993e0821da0e29680c434:208abe0d0ab4cbe6fff778ec42cf6ac4$"
+	}
+}

@@ -1,0 +1,267 @@
+{
+  "AssetPath": {
+    "Background": {
+      "Path": "assets/sprites/background/",
+      "Sprites": [
+        {
+          "Key": "ParkDay",
+          "Name": "ParkDay.png"
+        },
+        {
+          "Key": "Campus",
+          "Name": "Campus.png"
+        },
+        {
+          "Key": "ParkNight",
+          "Name": "ParkNight.png"
+        }
+      ]
+    },
+    "Character": [
+      {
+        "Key": "Boy",
+        "Data": "assets/sprites/boy/boy.json",
+        "Path": "assets/sprites/boy",
+        "Frame": "BoyIdle 12fps_00000.png",
+        "Animation": [
+          {
+            "Key": "Crash",
+            "Prefix": "BoyCrash_000",
+            "Suffix": ".png",
+            "Start": 0,
+            "End": 25,
+            "Repeat": 0
+          },
+          {
+            "Key": "Down",
+            "Prefix": "BoyDown_000",
+            "Suffix": ".png",
+            "Start": 0,
+            "End": 4,
+            "Repeat": 0
+          },
+          {
+            "Key": "Eat",
+            "Prefix": "BoyEat_000",
+            "Suffix": ".png",
+            "Start": 0,
+            "End": 2,
+            "Repeat": 0
+          },
+          {
+            "Key": "Fall",
+            "Prefix": "BoyFall_000",
+            "Suffix": ".png",
+            "Start": 0,
+            "End": 4,
+            "Repeat": 0
+          },
+          {
+            "Key": "Hit",
+            "Prefix": "BoyHit_000",
+            "Suffix": ".png",
+            "Start": 0,
+            "End": 0,
+            "Repeat": 0
+          },
+          {
+            "Key": "Idle",
+            "Prefix": "BoyIdle 12fps_000",
+            "Suffix": ".png",
+            "Start": 0,
+            "End": 11,
+            "Repeat": -1
+          },
+          {
+            "Key": "Idle",
+            "Prefix": "BoyInvincible_000",
+            "Suffix": ".png",
+            "Start": 0,
+            "End": 24,
+            "Repeat": -1
+          },
+          {
+            "Key": "Jump",
+            "Prefix": "BoyJump_000",
+            "Suffix": ".png",
+            "Start": 0,
+            "End": 4,
+            "Repeat": 0
+          }
+        ]
+      },
+      {
+        "Key": "Girl",
+        "Data": "assets/sprites/girl/girl.json",
+        "Path": "assets/sprites/girl",
+        "Frame": "GirlIdle 12fps_00000.png",
+
+        "Animation": [
+          {
+            "Key": "Crash",
+            "Prefix": "GirlCrash_000",
+            "Suffix": ".png",
+            "Start": 0,
+            "End": 25,
+            "Repeat": 0
+          },
+          {
+            "Key": "Down",
+            "Prefix": "GirlDown_000",
+            "Suffix": ".png",
+            "Start": 0,
+            "End": 4,
+            "Repeat": 0
+          },
+          {
+            "Key": "Eat",
+            "Prefix": "GirlEat_000",
+            "Suffix": ".png",
+            "Start": 0,
+            "End": 2,
+            "Repeat": 0
+          },
+          {
+            "Key": "Fall",
+            "Prefix": "GirlFall_000",
+            "Suffix": ".png",
+            "Start": 0,
+            "End": 4,
+            "Repeat": 0
+          },
+          {
+            "Key": "Hit",
+            "Prefix": "GirlHit_000",
+            "Suffix": ".png",
+            "Start": 0,
+            "End": 0,
+            "Repeat": 0
+          },
+          {
+            "Key": "Idle",
+            "Prefix": "GirlIdle 12fps_000",
+            "Suffix": ".png",
+            "Start": 0,
+            "End": 11,
+            "Repeat": -1
+          },
+          {
+            "Key": "Jump",
+            "Prefix": "GirlJump_000",
+            "Suffix": ".png",
+            "Start": 0,
+            "End": 4,
+            "Repeat": 0
+          }
+        ]
+      }
+    ],
+    "UI": {
+      "Path": "assets/sprites/UI/",
+      "Sprites": [
+        {
+          "Key": "Up_Btn",
+          "Name": "up_btn.png"
+        },
+        {
+          "Key": "Down_Btn",
+          "Name": "down_btn.png"
+        },
+        {
+          "Key": "HealthBarBG",
+          "Name": "health_meter_bg.png"
+        },
+        {
+          "Key": "HealthBarFill",
+          "Name": "health_fill.png"
+        },
+        {
+          "Key": "SoundOn",
+          "Name": "unmute_btn.png"
+        },
+        {
+          "Key": "SoundOff",
+          "Name": "mute_btn.png"
+        },
+        {
+          "Key": "Exit",
+          "Name": "exit_btn.png"
+        },
+        {
+          "Key": "Score",
+          "Name": "score_bg.png"
+        }
+      ]
+    },
+    "Ground_Obstacle": {
+      "path": "assets/sprites/obstacles/",
+      "Sprites": [
+        {
+          "Key": "BalloonSeller",
+          "Data": "BalloonSeller.json",
+          "Collide": true,
+          "FlipX": false
+        },
+        {
+          "Key": "BullyPeek",
+          "Data": "BullyPeek.json",
+          "Collide": true,
+          "FlipX": false
+        },
+        {
+          "Key": "CCTV",
+          "Data": "CCTV.json",
+          "Collide": false,
+          "FlipX": false
+        },
+        {
+          "Key": "dogs",
+          "Data": "dogs.json",
+          "Collide": true,
+          "FlipX": false
+        },
+        {
+          "Key": "Fountain",
+          "Data": "Fountain.json",
+          "Collide": false,
+          "FlipX": false
+        },
+        {
+          "Key": "Selfie",
+          "Data": "Selfie.json",
+          "Collide": true,
+          "FlipX": false
+        },
+        {
+          "Key": "Watchman",
+          "Data": "Watchman.json",
+          "Collide": true,
+          "FlipX": true
+        },
+        {
+          "Key": "WatchWoman",
+          "Data": "WatchWoman.json",
+          "Collide": true,
+          "FlipX": true
+        }
+      ]
+    },
+    "Air_Obstacle": {
+      "path": "assets/sprites/obstacles/",
+      "Sprites": [
+        {
+          "Key": "Birds",
+          "Data": "Birds.json",
+          "Collide": true,
+          "FlipX": false
+        },
+        {
+          "Key": "Plane",
+          "Data": "Plane.json",
+          "Collide": true,
+          "FlipX": false
+        }
+      ]
+    }
+  }
+}

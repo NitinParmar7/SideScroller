@@ -1,0 +1,178 @@
+{
+	"textures": [
+		{
+			"image": "Fountain-0.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1950,
+				"h": 1587
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "Fountain@Anim_00005.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1024,
+						"h": 1024
+					},
+					"spriteSourceSize": {
+						"x": 19,
+						"y": 184,
+						"w": 973,
+						"h": 792
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 973,
+						"h": 792
+					}
+				},
+				{
+					"filename": "Fountain@Anim_00006.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1024,
+						"h": 1024
+					},
+					"spriteSourceSize": {
+						"x": 19,
+						"y": 184,
+						"w": 973,
+						"h": 792
+					},
+					"frame": {
+						"x": 976,
+						"y": 1,
+						"w": 973,
+						"h": 792
+					}
+				},
+				{
+					"filename": "Fountain@Anim_00000.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1024,
+						"h": 1024
+					},
+					"spriteSourceSize": {
+						"x": 19,
+						"y": 185,
+						"w": 973,
+						"h": 791
+					},
+					"frame": {
+						"x": 1,
+						"y": 795,
+						"w": 973,
+						"h": 791
+					}
+				},
+				{
+					"filename": "Fountain@Anim_00001.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1024,
+						"h": 1024
+					},
+					"spriteSourceSize": {
+						"x": 19,
+						"y": 185,
+						"w": 973,
+						"h": 791
+					},
+					"frame": {
+						"x": 976,
+						"y": 795,
+						"w": 973,
+						"h": 791
+					}
+				}
+			]
+		},
+		{
+			"image": "Fountain-1.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1950,
+				"h": 1586
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "Fountain@Anim_00002.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1024,
+						"h": 1024
+					},
+					"spriteSourceSize": {
+						"x": 19,
+						"y": 185,
+						"w": 973,
+						"h": 791
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 973,
+						"h": 791
+					}
+				},
+				{
+					"filename": "Fountain@Anim_00003.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1024,
+						"h": 1024
+					},
+					"spriteSourceSize": {
+						"x": 19,
+						"y": 185,
+						"w": 973,
+						"h": 791
+					},
+					"frame": {
+						"x": 976,
+						"y": 1,
+						"w": 973,
+						"h": 791
+					}
+				},
+				{
+					"filename": "Fountain@Anim_00004.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1024,
+						"h": 1024
+					},
+					"spriteSourceSize": {
+						"x": 19,
+						"y": 185,
+						"w": 973,
+						"h": 791
+					},
+					"frame": {
+						"x": 1,
+						"y": 794,
+						"w": 973,
+						"h": 791
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:cd0737373740738d0ddd51ecff995014:c6d573def0522624261d0a39e42a6c4b:bebdb80ca31c2f0054dee155bc0ef90f$"
+	}
+}

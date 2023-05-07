@@ -1,0 +1,15 @@
+{
+    "compilerOptions": {
+    "strict": false,
+    "allowJs": true,
+    "outDir": "./built",
+    "target": "es6",
+    "module": "commonjs",
+    "sourceMap": true
+    },
+    "include": ["./src", "./types"],
+    "exclude": [
+        "./build/**/*",
+        "./node_modules"
+    ]
+}

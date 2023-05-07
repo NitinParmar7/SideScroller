@@ -1,0 +1,1764 @@
+{
+	"textures": [
+		{
+			"image": "boy-0.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 2015,
+				"h": 2007
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "BoyInvincible_00015.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 450,
+						"h": 450
+					},
+					"spriteSourceSize": {
+						"x": 72,
+						"y": 3,
+						"w": 345,
+						"h": 447
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 345,
+						"h": 447
+					}
+				},
+				{
+					"filename": "BoyInvincible_00016.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 450,
+						"h": 450
+					},
+					"spriteSourceSize": {
+						"x": 74,
+						"y": 5,
+						"w": 343,
+						"h": 445
+					},
+					"frame": {
+						"x": 1,
+						"y": 450,
+						"w": 343,
+						"h": 445
+					}
+				},
+				{
+					"filename": "BoyInvincible_00017.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 450,
+						"h": 450
+					},
+					"spriteSourceSize": {
+						"x": 76,
+						"y": 7,
+						"w": 341,
+						"h": 443
+					},
+					"frame": {
+						"x": 1,
+						"y": 897,
+						"w": 341,
+						"h": 443
+					}
+				},
+				{
+					"filename": "BoyInvincible_00014.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 450,
+						"h": 450
+					},
+					"spriteSourceSize": {
+						"x": 78,
+						"y": 8,
+						"w": 345,
+						"h": 442
+					},
+					"frame": {
+						"x": 1,
+						"y": 1342,
+						"w": 345,
+						"h": 442
+					}
+				},
+				{
+					"filename": "BoyInvincible_00018.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 450,
+						"h": 450
+					},
+					"spriteSourceSize": {
+						"x": 78,
+						"y": 9,
+						"w": 339,
+						"h": 441
+					},
+					"frame": {
+						"x": 344,
+						"y": 897,
+						"w": 339,
+						"h": 441
+					}
+				},
+				{
+					"filename": "BoyInvincible_00013.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 450,
+						"h": 450
+					},
+					"spriteSourceSize": {
+						"x": 83,
+						"y": 12,
+						"w": 345,
+						"h": 438
+					},
+					"frame": {
+						"x": 346,
+						"y": 450,
+						"w": 345,
+						"h": 438
+					}
+				},
+				{
+					"filename": "BoyInvincible_00019.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 450,
+						"h": 450
+					},
+					"spriteSourceSize": {
+						"x": 80,
+						"y": 12,
+						"w": 337,
+						"h": 438
+					},
+					"frame": {
+						"x": 348,
+						"y": 1,
+						"w": 337,
+						"h": 438
+					}
+				},
+				{
+					"filename": "BoyInvincible_00003.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 450,
+						"h": 450
+					},
+					"spriteSourceSize": {
+						"x": 81,
+						"y": 13,
+						"w": 336,
+						"h": 436
+					},
+					"frame": {
+						"x": 687,
+						"y": 1,
+						"w": 336,
+						"h": 436
+					}
+				},
+				{
+					"filename": "BoyInvincible_00020.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 450,
+						"h": 450
+					},
+					"spriteSourceSize": {
+						"x": 82,
+						"y": 13,
+						"w": 335,
+						"h": 436
+					},
+					"frame": {
+						"x": 348,
+						"y": 1340,
+						"w": 335,
+						"h": 436
+					}
+				},
+				{
+					"filename": "BoyInvincible_00012.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 450,
+						"h": 450
+					},
+					"spriteSourceSize": {
+						"x": 88,
+						"y": 16,
+						"w": 335,
+						"h": 429
+					},
+					"frame": {
+						"x": 1025,
+						"y": 1,
+						"w": 335,
+						"h": 429
+					}
+				},
+				{
+					"filename": "BoyInvincible_00004.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 450,
+						"h": 450
+					},
+					"spriteSourceSize": {
+						"x": 84,
+						"y": 16,
+						"w": 333,
+						"h": 430
+					},
+					"frame": {
+						"x": 1362,
+						"y": 1,
+						"w": 333,
+						"h": 430
+					}
+				},
+				{
+					"filename": "BoyInvincible_00024.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 450,
+						"h": 450
+					},
+					"spriteSourceSize": {
+						"x": 100,
+						"y": 30,
+						"w": 317,
+						"h": 394
+					},
+					"frame": {
+						"x": 1697,
+						"y": 1,
+						"w": 317,
+						"h": 394
+					}
+				},
+				{
+					"filename": "BoyFall_00003.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 450,
+						"h": 450
+					},
+					"spriteSourceSize": {
+						"x": 55,
+						"y": 99,
+						"w": 317,
+						"h": 299
+					},
+					"frame": {
+						"x": 1697,
+						"y": 397,
+						"w": 317,
+						"h": 299
+					}
+				},
+				{
+					"filename": "BoyInvincible_00005.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 450,
+						"h": 450
+					},
+					"spriteSourceSize": {
+						"x": 87,
+						"y": 18,
+						"w": 330,
+						"h": 424
+					},
+					"frame": {
+						"x": 1025,
+						"y": 432,
+						"w": 330,
+						"h": 424
+					}
+				},
+				{
+					"filename": "BoyInvincible_00021.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 450,
+						"h": 450
+					},
+					"spriteSourceSize": {
+						"x": 87,
+						"y": 18,
+						"w": 330,
+						"h": 424
+					},
+					"frame": {
+						"x": 693,
+						"y": 439,
+						"w": 330,
+						"h": 424
+					}
+				},
+				{
+					"filename": "BoyInvincible_00002.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 450,
+						"h": 450
+					},
+					"spriteSourceSize": {
+						"x": 89,
+						"y": 21,
+						"w": 328,
+						"h": 417
+					},
+					"frame": {
+						"x": 1357,
+						"y": 433,
+						"w": 328,
+						"h": 417
+					}
+				},
+				{
+					"filename": "BoyInvincible_00006.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 450,
+						"h": 450
+					},
+					"spriteSourceSize": {
+						"x": 91,
+						"y": 21,
+						"w": 326,
+						"h": 418
+					},
+					"frame": {
+						"x": 1687,
+						"y": 698,
+						"w": 326,
+						"h": 418
+					}
+				},
+				{
+					"filename": "BoyInvincible_00011.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 450,
+						"h": 450
+					},
+					"spriteSourceSize": {
+						"x": 92,
+						"y": 20,
+						"w": 325,
+						"h": 419
+					},
+					"frame": {
+						"x": 1357,
+						"y": 852,
+						"w": 325,
+						"h": 419
+					}
+				},
+				{
+					"filename": "BoyInvincible_00022.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 450,
+						"h": 450
+					},
+					"spriteSourceSize": {
+						"x": 92,
+						"y": 23,
+						"w": 325,
+						"h": 412
+					},
+					"frame": {
+						"x": 1684,
+						"y": 1118,
+						"w": 325,
+						"h": 412
+					}
+				},
+				{
+					"filename": "BoyInvincible_00007.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 450,
+						"h": 450
+					},
+					"spriteSourceSize": {
+						"x": 94,
+						"y": 23,
+						"w": 323,
+						"h": 412
+					},
+					"frame": {
+						"x": 1025,
+						"y": 858,
+						"w": 323,
+						"h": 412
+					}
+				},
+				{
+					"filename": "BoyFall_00004.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 450,
+						"h": 450
+					},
+					"spriteSourceSize": {
+						"x": 44,
+						"y": 124,
+						"w": 323,
+						"h": 276
+					},
+					"frame": {
+						"x": 693,
+						"y": 865,
+						"w": 323,
+						"h": 276
+					}
+				},
+				{
+					"filename": "BoyInvincible_00010.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 450,
+						"h": 450
+					},
+					"spriteSourceSize": {
+						"x": 96,
+						"y": 24,
+						"w": 321,
+						"h": 410
+					},
+					"frame": {
+						"x": 685,
+						"y": 1143,
+						"w": 321,
+						"h": 410
+					}
+				},
+				{
+					"filename": "BoyInvincible_00023.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 450,
+						"h": 450
+					},
+					"spriteSourceSize": {
+						"x": 96,
+						"y": 26,
+						"w": 321,
+						"h": 404
+					},
+					"frame": {
+						"x": 1008,
+						"y": 1272,
+						"w": 321,
+						"h": 404
+					}
+				},
+				{
+					"filename": "BoyInvincible_00008.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 450,
+						"h": 450
+					},
+					"spriteSourceSize": {
+						"x": 97,
+						"y": 25,
+						"w": 320,
+						"h": 407
+					},
+					"frame": {
+						"x": 685,
+						"y": 1555,
+						"w": 320,
+						"h": 407
+					}
+				},
+				{
+					"filename": "BoyInvincible_00001.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 450,
+						"h": 450
+					},
+					"spriteSourceSize": {
+						"x": 97,
+						"y": 28,
+						"w": 320,
+						"h": 400
+					},
+					"frame": {
+						"x": 1331,
+						"y": 1273,
+						"w": 320,
+						"h": 400
+					}
+				},
+				{
+					"filename": "BoyCrash_00015.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 450,
+						"h": 450
+					},
+					"spriteSourceSize": {
+						"x": 45,
+						"y": 102,
+						"w": 248,
+						"h": 331
+					},
+					"frame": {
+						"x": 1331,
+						"y": 1675,
+						"w": 248,
+						"h": 331
+					}
+				},
+				{
+					"filename": "BoyInvincible_00009.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 450,
+						"h": 450
+					},
+					"spriteSourceSize": {
+						"x": 99,
+						"y": 27,
+						"w": 318,
+						"h": 402
+					},
+					"frame": {
+						"x": 1653,
+						"y": 1532,
+						"w": 318,
+						"h": 402
+					}
+				},
+				{
+					"filename": "BoyCrash_00025.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 450,
+						"h": 450
+					},
+					"spriteSourceSize": {
+						"x": 44,
+						"y": 138,
+						"w": 251,
+						"h": 281
+					},
+					"frame": {
+						"x": 1007,
+						"y": 1678,
+						"w": 251,
+						"h": 281
+					}
+				}
+			]
+		},
+		{
+			"image": "boy-1.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1878,
+				"h": 1936
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "BoyInvincible_00000.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 450,
+						"h": 450
+					},
+					"spriteSourceSize": {
+						"x": 104,
+						"y": 34,
+						"w": 313,
+						"h": 385
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 313,
+						"h": 385
+					}
+				},
+				{
+					"filename": "BoyFall_00002.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 450,
+						"h": 450
+					},
+					"spriteSourceSize": {
+						"x": 70,
+						"y": 75,
+						"w": 295,
+						"h": 365
+					},
+					"frame": {
+						"x": 1,
+						"y": 388,
+						"w": 295,
+						"h": 365
+					}
+				},
+				{
+					"filename": "BoyJump_00003.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 450,
+						"h": 450
+					},
+					"spriteSourceSize": {
+						"x": 105,
+						"y": 22,
+						"w": 249,
+						"h": 405
+					},
+					"frame": {
+						"x": 1,
+						"y": 755,
+						"w": 249,
+						"h": 405
+					}
+				},
+				{
+					"filename": "BoyJump_00002.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 450,
+						"h": 450
+					},
+					"spriteSourceSize": {
+						"x": 105,
+						"y": 25,
+						"w": 248,
+						"h": 400
+					},
+					"frame": {
+						"x": 1,
+						"y": 1162,
+						"w": 248,
+						"h": 400
+					}
+				},
+				{
+					"filename": "BoyCrash_00012.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 450,
+						"h": 450
+					},
+					"spriteSourceSize": {
+						"x": 56,
+						"y": 59,
+						"w": 267,
+						"h": 371
+					},
+					"frame": {
+						"x": 1,
+						"y": 1564,
+						"w": 267,
+						"h": 371
+					}
+				},
+				{
+					"filename": "BoyCrash_00011.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 450,
+						"h": 450
+					},
+					"spriteSourceSize": {
+						"x": 65,
+						"y": 50,
+						"w": 265,
+						"h": 371
+					},
+					"frame": {
+						"x": 316,
+						"y": 1,
+						"w": 265,
+						"h": 371
+					}
+				},
+				{
+					"filename": "BoyCrash_00010.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 450,
+						"h": 450
+					},
+					"spriteSourceSize": {
+						"x": 71,
+						"y": 47,
+						"w": 262,
+						"h": 371
+					},
+					"frame": {
+						"x": 583,
+						"y": 1,
+						"w": 262,
+						"h": 371
+					}
+				},
+				{
+					"filename": "BoyCrash_00009.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 450,
+						"h": 450
+					},
+					"spriteSourceSize": {
+						"x": 76,
+						"y": 44,
+						"w": 260,
+						"h": 373
+					},
+					"frame": {
+						"x": 847,
+						"y": 1,
+						"w": 260,
+						"h": 373
+					}
+				},
+				{
+					"filename": "BoyCrash_00008.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 450,
+						"h": 450
+					},
+					"spriteSourceSize": {
+						"x": 80,
+						"y": 42,
+						"w": 258,
+						"h": 373
+					},
+					"frame": {
+						"x": 1109,
+						"y": 1,
+						"w": 258,
+						"h": 373
+					}
+				},
+				{
+					"filename": "BoyCrash_00013.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 450,
+						"h": 450
+					},
+					"spriteSourceSize": {
+						"x": 50,
+						"y": 73,
+						"w": 262,
+						"h": 366
+					},
+					"frame": {
+						"x": 1369,
+						"y": 1,
+						"w": 262,
+						"h": 366
+					}
+				},
+				{
+					"filename": "BoyJump_00001.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 450,
+						"h": 450
+					},
+					"spriteSourceSize": {
+						"x": 104,
+						"y": 30,
+						"w": 241,
+						"h": 393
+					},
+					"frame": {
+						"x": 1633,
+						"y": 1,
+						"w": 241,
+						"h": 393
+					}
+				},
+				{
+					"filename": "BoyJump_00004.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 450,
+						"h": 450
+					},
+					"spriteSourceSize": {
+						"x": 106,
+						"y": 18,
+						"w": 239,
+						"h": 409
+					},
+					"frame": {
+						"x": 252,
+						"y": 755,
+						"w": 239,
+						"h": 409
+					}
+				},
+				{
+					"filename": "BoyFall_00001.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 450,
+						"h": 450
+					},
+					"spriteSourceSize": {
+						"x": 85,
+						"y": 51,
+						"w": 246,
+						"h": 395
+					},
+					"frame": {
+						"x": 251,
+						"y": 1166,
+						"w": 246,
+						"h": 395
+					}
+				},
+				{
+					"filename": "BoyCrash_00014.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 450,
+						"h": 450
+					},
+					"spriteSourceSize": {
+						"x": 47,
+						"y": 87,
+						"w": 255,
+						"h": 351
+					},
+					"frame": {
+						"x": 270,
+						"y": 1563,
+						"w": 255,
+						"h": 351
+					}
+				},
+				{
+					"filename": "BoyCrash_00016.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 450,
+						"h": 450
+					},
+					"spriteSourceSize": {
+						"x": 45,
+						"y": 117,
+						"w": 240,
+						"h": 308
+					},
+					"frame": {
+						"x": 298,
+						"y": 388,
+						"w": 240,
+						"h": 308
+					}
+				},
+				{
+					"filename": "BoyCrash_00007.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 450,
+						"h": 450
+					},
+					"spriteSourceSize": {
+						"x": 85,
+						"y": 40,
+						"w": 255,
+						"h": 374
+					},
+					"frame": {
+						"x": 540,
+						"y": 374,
+						"w": 255,
+						"h": 374
+					}
+				},
+				{
+					"filename": "BoyFall_00000.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 450,
+						"h": 450
+					},
+					"spriteSourceSize": {
+						"x": 101,
+						"y": 35,
+						"w": 237,
+						"h": 394
+					},
+					"frame": {
+						"x": 493,
+						"y": 750,
+						"w": 237,
+						"h": 394
+					}
+				},
+				{
+					"filename": "BoyEat_00001.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 450,
+						"h": 450
+					},
+					"spriteSourceSize": {
+						"x": 111,
+						"y": 30,
+						"w": 224,
+						"h": 407
+					},
+					"frame": {
+						"x": 499,
+						"y": 1146,
+						"w": 224,
+						"h": 407
+					}
+				},
+				{
+					"filename": "BoyCrash_00006.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 450,
+						"h": 450
+					},
+					"spriteSourceSize": {
+						"x": 90,
+						"y": 38,
+						"w": 252,
+						"h": 374
+					},
+					"frame": {
+						"x": 797,
+						"y": 376,
+						"w": 252,
+						"h": 374
+					}
+				},
+				{
+					"filename": "BoyCrash_00005.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 450,
+						"h": 450
+					},
+					"spriteSourceSize": {
+						"x": 95,
+						"y": 37,
+						"w": 249,
+						"h": 374
+					},
+					"frame": {
+						"x": 1051,
+						"y": 376,
+						"w": 249,
+						"h": 374
+					}
+				},
+				{
+					"filename": "BoyEat_00000.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 450,
+						"h": 450
+					},
+					"spriteSourceSize": {
+						"x": 104,
+						"y": 34,
+						"w": 234,
+						"h": 389
+					},
+					"frame": {
+						"x": 732,
+						"y": 752,
+						"w": 234,
+						"h": 389
+					}
+				},
+				{
+					"filename": "BoyJump_00000.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 450,
+						"h": 450
+					},
+					"spriteSourceSize": {
+						"x": 104,
+						"y": 34,
+						"w": 236,
+						"h": 385
+					},
+					"frame": {
+						"x": 968,
+						"y": 752,
+						"w": 236,
+						"h": 385
+					}
+				},
+				{
+					"filename": "BoyCrash_00002.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 450,
+						"h": 450
+					},
+					"spriteSourceSize": {
+						"x": 111,
+						"y": 32,
+						"w": 237,
+						"h": 373
+					},
+					"frame": {
+						"x": 527,
+						"y": 1555,
+						"w": 237,
+						"h": 373
+					}
+				},
+				{
+					"filename": "BoyDown_00000.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 450,
+						"h": 450
+					},
+					"spriteSourceSize": {
+						"x": 104,
+						"y": 34,
+						"w": 234,
+						"h": 387
+					},
+					"frame": {
+						"x": 1206,
+						"y": 752,
+						"w": 234,
+						"h": 387
+					}
+				},
+				{
+					"filename": "BoyCrash_00004.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 450,
+						"h": 450
+					},
+					"spriteSourceSize": {
+						"x": 100,
+						"y": 35,
+						"w": 246,
+						"h": 374
+					},
+					"frame": {
+						"x": 1302,
+						"y": 376,
+						"w": 246,
+						"h": 374
+					}
+				},
+				{
+					"filename": "BoyCrash_00003.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 450,
+						"h": 450
+					},
+					"spriteSourceSize": {
+						"x": 106,
+						"y": 33,
+						"w": 241,
+						"h": 374
+					},
+					"frame": {
+						"x": 1550,
+						"y": 396,
+						"w": 241,
+						"h": 374
+					}
+				},
+				{
+					"filename": "BoyIdle 12fps_00000.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 450,
+						"h": 450
+					},
+					"spriteSourceSize": {
+						"x": 104,
+						"y": 34,
+						"w": 234,
+						"h": 384
+					},
+					"frame": {
+						"x": 1442,
+						"y": 772,
+						"w": 234,
+						"h": 384
+					}
+				},
+				{
+					"filename": "BoyEat_00002.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 450,
+						"h": 450
+					},
+					"spriteSourceSize": {
+						"x": 119,
+						"y": 25,
+						"w": 199,
+						"h": 423
+					},
+					"frame": {
+						"x": 1678,
+						"y": 772,
+						"w": 199,
+						"h": 423
+					}
+				},
+				{
+					"filename": "BoyDown_00004.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 450,
+						"h": 450
+					},
+					"spriteSourceSize": {
+						"x": 112,
+						"y": 23,
+						"w": 224,
+						"h": 401
+					},
+					"frame": {
+						"x": 725,
+						"y": 1146,
+						"w": 224,
+						"h": 401
+					}
+				},
+				{
+					"filename": "BoyIdle 12fps_00001.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 450,
+						"h": 450
+					},
+					"spriteSourceSize": {
+						"x": 105,
+						"y": 34,
+						"w": 233,
+						"h": 384
+					},
+					"frame": {
+						"x": 766,
+						"y": 1549,
+						"w": 233,
+						"h": 384
+					}
+				},
+				{
+					"filename": "BoyDown_00001.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 450,
+						"h": 450
+					},
+					"spriteSourceSize": {
+						"x": 112,
+						"y": 33,
+						"w": 224,
+						"h": 398
+					},
+					"frame": {
+						"x": 951,
+						"y": 1143,
+						"w": 224,
+						"h": 398
+					}
+				},
+				{
+					"filename": "BoyIdle 12fps_00011.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 450,
+						"h": 450
+					},
+					"spriteSourceSize": {
+						"x": 105,
+						"y": 34,
+						"w": 233,
+						"h": 384
+					},
+					"frame": {
+						"x": 1177,
+						"y": 1141,
+						"w": 233,
+						"h": 384
+					}
+				},
+				{
+					"filename": "BoyIdle 12fps_00010.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 450,
+						"h": 450
+					},
+					"spriteSourceSize": {
+						"x": 106,
+						"y": 34,
+						"w": 232,
+						"h": 384
+					},
+					"frame": {
+						"x": 1412,
+						"y": 1158,
+						"w": 232,
+						"h": 384
+					}
+				},
+				{
+					"filename": "BoyIdle 12fps_00002.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 450,
+						"h": 450
+					},
+					"spriteSourceSize": {
+						"x": 106,
+						"y": 34,
+						"w": 231,
+						"h": 384
+					},
+					"frame": {
+						"x": 1646,
+						"y": 1197,
+						"w": 231,
+						"h": 384
+					}
+				},
+				{
+					"filename": "BoyCrash_00001.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 450,
+						"h": 450
+					},
+					"spriteSourceSize": {
+						"x": 117,
+						"y": 33,
+						"w": 230,
+						"h": 373
+					},
+					"frame": {
+						"x": 1001,
+						"y": 1543,
+						"w": 230,
+						"h": 373
+					}
+				},
+				{
+					"filename": "BoyCrash_00024.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 450,
+						"h": 450
+					},
+					"spriteSourceSize": {
+						"x": 44,
+						"y": 136,
+						"w": 250,
+						"h": 281
+					},
+					"frame": {
+						"x": 1233,
+						"y": 1544,
+						"w": 250,
+						"h": 281
+					}
+				},
+				{
+					"filename": "BoyCrash_00023.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 450,
+						"h": 450
+					},
+					"spriteSourceSize": {
+						"x": 44,
+						"y": 137,
+						"w": 249,
+						"h": 282
+					},
+					"frame": {
+						"x": 1485,
+						"y": 1583,
+						"w": 249,
+						"h": 282
+					}
+				}
+			]
+		},
+		{
+			"image": "boy-2.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 943,
+				"h": 1546
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "BoyIdle 12fps_00009.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 450,
+						"h": 450
+					},
+					"spriteSourceSize": {
+						"x": 106,
+						"y": 34,
+						"w": 231,
+						"h": 384
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 231,
+						"h": 384
+					}
+				},
+				{
+					"filename": "BoyIdle 12fps_00003.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 450,
+						"h": 450
+					},
+					"spriteSourceSize": {
+						"x": 107,
+						"y": 35,
+						"w": 230,
+						"h": 383
+					},
+					"frame": {
+						"x": 1,
+						"y": 387,
+						"w": 230,
+						"h": 383
+					}
+				},
+				{
+					"filename": "BoyIdle 12fps_00008.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 450,
+						"h": 450
+					},
+					"spriteSourceSize": {
+						"x": 107,
+						"y": 35,
+						"w": 230,
+						"h": 383
+					},
+					"frame": {
+						"x": 1,
+						"y": 772,
+						"w": 230,
+						"h": 383
+					}
+				},
+				{
+					"filename": "BoyIdle 12fps_00004.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 450,
+						"h": 450
+					},
+					"spriteSourceSize": {
+						"x": 108,
+						"y": 35,
+						"w": 229,
+						"h": 383
+					},
+					"frame": {
+						"x": 1,
+						"y": 1157,
+						"w": 229,
+						"h": 383
+					}
+				},
+				{
+					"filename": "BoyIdle 12fps_00007.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 450,
+						"h": 450
+					},
+					"spriteSourceSize": {
+						"x": 108,
+						"y": 35,
+						"w": 229,
+						"h": 383
+					},
+					"frame": {
+						"x": 232,
+						"y": 1157,
+						"w": 229,
+						"h": 383
+					}
+				},
+				{
+					"filename": "BoyIdle 12fps_00005.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 450,
+						"h": 450
+					},
+					"spriteSourceSize": {
+						"x": 109,
+						"y": 35,
+						"w": 228,
+						"h": 383
+					},
+					"frame": {
+						"x": 233,
+						"y": 387,
+						"w": 228,
+						"h": 383
+					}
+				},
+				{
+					"filename": "BoyIdle 12fps_00006.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 450,
+						"h": 450
+					},
+					"spriteSourceSize": {
+						"x": 109,
+						"y": 35,
+						"w": 228,
+						"h": 383
+					},
+					"frame": {
+						"x": 233,
+						"y": 772,
+						"w": 228,
+						"h": 383
+					}
+				},
+				{
+					"filename": "BoyCrash_00000.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 450,
+						"h": 450
+					},
+					"spriteSourceSize": {
+						"x": 120,
+						"y": 35,
+						"w": 227,
+						"h": 374
+					},
+					"frame": {
+						"x": 234,
+						"y": 1,
+						"w": 227,
+						"h": 374
+					}
+				},
+				{
+					"filename": "BoyDown_00003.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 450,
+						"h": 450
+					},
+					"spriteSourceSize": {
+						"x": 117,
+						"y": 29,
+						"w": 215,
+						"h": 400
+					},
+					"frame": {
+						"x": 463,
+						"y": 1,
+						"w": 215,
+						"h": 400
+					}
+				},
+				{
+					"filename": "BoyDown_00002.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 450,
+						"h": 450
+					},
+					"spriteSourceSize": {
+						"x": 120,
+						"y": 31,
+						"w": 214,
+						"h": 401
+					},
+					"frame": {
+						"x": 680,
+						"y": 1,
+						"w": 214,
+						"h": 401
+					}
+				},
+				{
+					"filename": "BoyHit_00000.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 450,
+						"h": 450
+					},
+					"spriteSourceSize": {
+						"x": 120,
+						"y": 35,
+						"w": 227,
+						"h": 374
+					},
+					"frame": {
+						"x": 463,
+						"y": 404,
+						"w": 227,
+						"h": 374
+					}
+				},
+				{
+					"filename": "BoyCrash_00022.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 450,
+						"h": 450
+					},
+					"spriteSourceSize": {
+						"x": 44,
+						"y": 139,
+						"w": 248,
+						"h": 282
+					},
+					"frame": {
+						"x": 692,
+						"y": 404,
+						"w": 248,
+						"h": 282
+					}
+				},
+				{
+					"filename": "BoyCrash_00021.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 450,
+						"h": 450
+					},
+					"spriteSourceSize": {
+						"x": 44,
+						"y": 140,
+						"w": 246,
+						"h": 283
+					},
+					"frame": {
+						"x": 692,
+						"y": 688,
+						"w": 246,
+						"h": 283
+					}
+				},
+				{
+					"filename": "BoyCrash_00020.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 450,
+						"h": 450
+					},
+					"spriteSourceSize": {
+						"x": 45,
+						"y": 142,
+						"w": 242,
+						"h": 282
+					},
+					"frame": {
+						"x": 463,
+						"y": 973,
+						"w": 242,
+						"h": 282
+					}
+				},
+				{
+					"filename": "BoyCrash_00017.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 450,
+						"h": 450
+					},
+					"spriteSourceSize": {
+						"x": 45,
+						"y": 131,
+						"w": 235,
+						"h": 287
+					},
+					"frame": {
+						"x": 707,
+						"y": 973,
+						"w": 235,
+						"h": 287
+					}
+				},
+				{
+					"filename": "BoyCrash_00019.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 450,
+						"h": 450
+					},
+					"spriteSourceSize": {
+						"x": 45,
+						"y": 139,
+						"w": 239,
+						"h": 283
+					},
+					"frame": {
+						"x": 463,
+						"y": 1257,
+						"w": 239,
+						"h": 283
+					}
+				},
+				{
+					"filename": "BoyCrash_00018.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 450,
+						"h": 450
+					},
+					"spriteSourceSize": {
+						"x": 45,
+						"y": 137,
+						"w": 236,
+						"h": 283
+					},
+					"frame": {
+						"x": 704,
+						"y": 1262,
+						"w": 236,
+						"h": 283
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:693e9d6f01ed952cdf77be236e8b11a3:368c4fb84051d70f61e77c4b2c90f64b:3ef0b04085380fa633df90b6b0c1b121$"
+	}
+}

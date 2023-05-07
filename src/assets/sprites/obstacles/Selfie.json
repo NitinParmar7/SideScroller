@@ -1,0 +1,556 @@
+{
+	"textures": [
+		{
+			"image": "Selfie-0.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1974,
+				"h": 1436
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "Selfie_00020.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 600,
+						"h": 600
+					},
+					"spriteSourceSize": {
+						"x": 91,
+						"y": 172,
+						"w": 385,
+						"h": 417
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 385,
+						"h": 417
+					}
+				},
+				{
+					"filename": "Selfie_00021.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 600,
+						"h": 600
+					},
+					"spriteSourceSize": {
+						"x": 87,
+						"y": 172,
+						"w": 389,
+						"h": 417
+					},
+					"frame": {
+						"x": 388,
+						"y": 1,
+						"w": 389,
+						"h": 417
+					}
+				},
+				{
+					"filename": "Selfie_00022.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 600,
+						"h": 600
+					},
+					"spriteSourceSize": {
+						"x": 82,
+						"y": 172,
+						"w": 394,
+						"h": 417
+					},
+					"frame": {
+						"x": 779,
+						"y": 1,
+						"w": 394,
+						"h": 417
+					}
+				},
+				{
+					"filename": "Selfie_00000.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 600,
+						"h": 600
+					},
+					"spriteSourceSize": {
+						"x": 74,
+						"y": 171,
+						"w": 404,
+						"h": 418
+					},
+					"frame": {
+						"x": 1175,
+						"y": 1,
+						"w": 404,
+						"h": 418
+					}
+				},
+				{
+					"filename": "Selfie_00024.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 600,
+						"h": 600
+					},
+					"spriteSourceSize": {
+						"x": 74,
+						"y": 171,
+						"w": 404,
+						"h": 418
+					},
+					"frame": {
+						"x": 1175,
+						"y": 1,
+						"w": 404,
+						"h": 418
+					}
+				},
+				{
+					"filename": "Selfie_00001.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 600,
+						"h": 600
+					},
+					"spriteSourceSize": {
+						"x": 85,
+						"y": 171,
+						"w": 392,
+						"h": 418
+					},
+					"frame": {
+						"x": 1581,
+						"y": 1,
+						"w": 392,
+						"h": 418
+					}
+				},
+				{
+					"filename": "Selfie_00003.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 600,
+						"h": 600
+					},
+					"spriteSourceSize": {
+						"x": 112,
+						"y": 150,
+						"w": 365,
+						"h": 439
+					},
+					"frame": {
+						"x": 1,
+						"y": 420,
+						"w": 365,
+						"h": 439
+					}
+				},
+				{
+					"filename": "Selfie_00004.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 600,
+						"h": 600
+					},
+					"spriteSourceSize": {
+						"x": 112,
+						"y": 150,
+						"w": 365,
+						"h": 439
+					},
+					"frame": {
+						"x": 368,
+						"y": 420,
+						"w": 365,
+						"h": 439
+					}
+				},
+				{
+					"filename": "Selfie_00005.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 600,
+						"h": 600
+					},
+					"spriteSourceSize": {
+						"x": 112,
+						"y": 150,
+						"w": 364,
+						"h": 439
+					},
+					"frame": {
+						"x": 735,
+						"y": 420,
+						"w": 364,
+						"h": 439
+					}
+				},
+				{
+					"filename": "Selfie_00006.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 600,
+						"h": 600
+					},
+					"spriteSourceSize": {
+						"x": 112,
+						"y": 150,
+						"w": 364,
+						"h": 439
+					},
+					"frame": {
+						"x": 1101,
+						"y": 421,
+						"w": 364,
+						"h": 439
+					}
+				},
+				{
+					"filename": "Selfie_00007.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 600,
+						"h": 600
+					},
+					"spriteSourceSize": {
+						"x": 112,
+						"y": 150,
+						"w": 364,
+						"h": 439
+					},
+					"frame": {
+						"x": 1467,
+						"y": 421,
+						"w": 364,
+						"h": 439
+					}
+				},
+				{
+					"filename": "Selfie_00013.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 600,
+						"h": 600
+					},
+					"spriteSourceSize": {
+						"x": 73,
+						"y": 103,
+						"w": 403,
+						"h": 486
+					},
+					"frame": {
+						"x": 1,
+						"y": 861,
+						"w": 403,
+						"h": 486
+					}
+				},
+				{
+					"filename": "Selfie_00016.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 600,
+						"h": 600
+					},
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 35,
+						"w": 471,
+						"h": 554
+					},
+					"frame": {
+						"x": 406,
+						"y": 861,
+						"w": 471,
+						"h": 554
+					}
+				},
+				{
+					"filename": "Selfie_00015.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 600,
+						"h": 600
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 19,
+						"w": 476,
+						"h": 570
+					},
+					"frame": {
+						"x": 879,
+						"y": 862,
+						"w": 476,
+						"h": 570
+					}
+				},
+				{
+					"filename": "Selfie_00014.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 600,
+						"h": 600
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 16,
+						"w": 472,
+						"h": 573
+					},
+					"frame": {
+						"x": 1357,
+						"y": 862,
+						"w": 472,
+						"h": 573
+					}
+				}
+			]
+		},
+		{
+			"image": "Selfie-1.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1875,
+				"h": 882
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "Selfie_00008.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 600,
+						"h": 600
+					},
+					"spriteSourceSize": {
+						"x": 112,
+						"y": 150,
+						"w": 364,
+						"h": 439
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 364,
+						"h": 439
+					}
+				},
+				{
+					"filename": "Selfie_00009.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 600,
+						"h": 600
+					},
+					"spriteSourceSize": {
+						"x": 112,
+						"y": 150,
+						"w": 364,
+						"h": 439
+					},
+					"frame": {
+						"x": 1,
+						"y": 442,
+						"w": 364,
+						"h": 439
+					}
+				},
+				{
+					"filename": "Selfie_00010.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 600,
+						"h": 600
+					},
+					"spriteSourceSize": {
+						"x": 112,
+						"y": 150,
+						"w": 364,
+						"h": 439
+					},
+					"frame": {
+						"x": 367,
+						"y": 1,
+						"w": 364,
+						"h": 439
+					}
+				},
+				{
+					"filename": "Selfie_00011.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 600,
+						"h": 600
+					},
+					"spriteSourceSize": {
+						"x": 112,
+						"y": 150,
+						"w": 364,
+						"h": 439
+					},
+					"frame": {
+						"x": 367,
+						"y": 442,
+						"w": 364,
+						"h": 439
+					}
+				},
+				{
+					"filename": "Selfie_00012.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 600,
+						"h": 600
+					},
+					"spriteSourceSize": {
+						"x": 112,
+						"y": 150,
+						"w": 364,
+						"h": 439
+					},
+					"frame": {
+						"x": 733,
+						"y": 1,
+						"w": 364,
+						"h": 439
+					}
+				},
+				{
+					"filename": "Selfie_00017.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 600,
+						"h": 600
+					},
+					"spriteSourceSize": {
+						"x": 107,
+						"y": 155,
+						"w": 369,
+						"h": 434
+					},
+					"frame": {
+						"x": 733,
+						"y": 442,
+						"w": 369,
+						"h": 434
+					}
+				},
+				{
+					"filename": "Selfie_00018.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 600,
+						"h": 600
+					},
+					"spriteSourceSize": {
+						"x": 102,
+						"y": 161,
+						"w": 374,
+						"h": 428
+					},
+					"frame": {
+						"x": 1099,
+						"y": 1,
+						"w": 374,
+						"h": 428
+					}
+				},
+				{
+					"filename": "Selfie_00023.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 600,
+						"h": 600
+					},
+					"spriteSourceSize": {
+						"x": 78,
+						"y": 171,
+						"w": 399,
+						"h": 418
+					},
+					"frame": {
+						"x": 1475,
+						"y": 1,
+						"w": 399,
+						"h": 418
+					}
+				},
+				{
+					"filename": "Selfie_00002.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 600,
+						"h": 600
+					},
+					"spriteSourceSize": {
+						"x": 98,
+						"y": 164,
+						"w": 379,
+						"h": 425
+					},
+					"frame": {
+						"x": 1104,
+						"y": 431,
+						"w": 379,
+						"h": 425
+					}
+				},
+				{
+					"filename": "Selfie_00019.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 600,
+						"h": 600
+					},
+					"spriteSourceSize": {
+						"x": 96,
+						"y": 166,
+						"w": 380,
+						"h": 423
+					},
+					"frame": {
+						"x": 1485,
+						"y": 421,
+						"w": 380,
+						"h": 423
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:012ca8677d4438812fe877616114c85b:9ecc5e991afa7f4a92411c4217cda638:b626f09069b7b5ac87b1b31686c443f8$"
+	}
+}

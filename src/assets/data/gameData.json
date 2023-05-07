@@ -1,0 +1,6 @@
+{
+  "GameSpeed": 1,
+  "PlayerVerticalSpeed": 1,
+  "StartingHealthMeter": 0.5,
+  "TimeToSpawnObstacle": 2000
+}
